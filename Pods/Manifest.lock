@@ -1,0 +1,20 @@
+PODS:
+  - FSCalendar (2.8.4)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - FSCalendar
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 80dc71e9271c1b2fdab435138d9bd88f1e696d60
+
+COCOAPODS: 1.11.3
